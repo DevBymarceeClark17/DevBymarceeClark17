@@ -25,19 +25,6 @@ Soy estudiante de Ingeniería en Informática en la **UPIICSA (IPN)**. Me especi
   <img src="https://img.shields.io/badge/javascript-%233e2723.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 </div>
 
----
-
-### 📊 Mis Estadísticas
-
-<div align="center">
-
-![Mis Estadísticas](https://github-readme-stats.vercel.app/api?username=DevBymarceeClark17&show_icons=true&bg_color=2b1d18&title_color=c05600&text_color=fdfbf7&icon_color=ffb74d&border_color=ffb74d&hide_border=false)
-
-![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=DevBymarceeClark17&layout=compact&bg_color=2b1d18&title_color=c05600&text_color=fdfbf7&border_color=ffb74d&hide_border=false)
-
-</div>
-
----
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jimenez-soto-marcelino-17791539b/" target="_blank">
