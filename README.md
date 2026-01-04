@@ -30,10 +30,11 @@ Soy estudiante de Ingeniería en Informática en la **UPIICSA (IPN)**. Me especi
 ### 📊 Mis Estadísticas
 
 <div align="center">
-  <a href="https://github.com/DevBymarceeClark17">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevBymarceeClark17&show_icons=true&bg_color=2b1d18&title_color=c05600&text_color=fdfbf7&icon_color=ffb74d&border_color=ffb74d&hide_border=false"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBymarceeClark17&layout=compact&bg_color=2b1d18&title_color=c05600&text_color=fdfbf7&border_color=ffb74d&hide_border=false"/>
-  </a>
+
+![Mis Estadísticas](https://github-readme-stats.vercel.app/api?username=DevBymarceeClark17&show_icons=true&bg_color=2b1d18&title_color=c05600&text_color=fdfbf7&icon_color=ffb74d&border_color=ffb74d&hide_border=false)
+
+![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=DevBymarceeClark17&layout=compact&bg_color=2b1d18&title_color=c05600&text_color=fdfbf7&border_color=ffb74d&hide_border=false)
+
 </div>
 
 ---
